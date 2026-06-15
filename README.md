@@ -1,2 +1,2 @@
 # FormalMethods
-built a tool using pyhton and html 
+built a tool using python and html 
